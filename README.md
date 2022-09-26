@@ -1,0 +1,2 @@
+# F1-2022-Monza-Weekend-Analysis
+This repository is where I showcase what I am capable of doing by mixing my data analysis skills with a passion in Formula 1 racing. This is my first ever big project which took me 3 days to complete. This project is about the analysis of the F1 weekend at Monza, data visualizations such as Verstappen VS Leclerc qualifying lap times and race pace are shown in this repository. Hope you guys enjoy it!
